@@ -1,4 +1,4 @@
-# .github/workflows/ci.yaml
+# .github/workflows/ci.yaml and this is for action to be taken on push to the report.
 # This workflow defines the Continuous Integration (CI) process for your project.
 
 name: CI Workflow # The name of your workflow, displayed in the GitHub Actions tab.
